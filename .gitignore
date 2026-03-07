@@ -1,2 +1,5 @@
 node_modules/
 .env
+.env.test
+test_output.txt
+test_output2.txt
